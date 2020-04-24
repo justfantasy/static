@@ -1,1 +1,1 @@
-# static
+#### 通用html/css/js/img资源
